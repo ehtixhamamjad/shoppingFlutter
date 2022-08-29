@@ -1,4 +1,6 @@
 // git init
+// git add .
+// git commit -m first
 import 'package:flutter/material.dart';
 
 void main() {
